@@ -27,9 +27,22 @@ public class j {
      System.out.println(name);*/
      //int number = sc.nextInt();
      
-     float b = sc.nextInt();
+     /*float b = sc.nextInt();
      float triangle = 3.14f*b*b;
-     System.out.print(triangle); 
+     System.out.print(triangle); */
+    /* float marks = 99.999f;
+     int marks2 = (int) marks;
+     System.out.println(marks2);*/
+     /*char ch = 'a';
+     char ch2 ='b';
+     int number = ch;
+     int number2 = ch2;
+     System.out.println(number);
+     System.out.println(number2);*/
+        
+       //System.out.println( !(3>2));
+       
+       
 
 
 
