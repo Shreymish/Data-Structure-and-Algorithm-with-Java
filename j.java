@@ -20,7 +20,7 @@ public class j {
         //int b = 5;
         //int sum = a + b;
         //System.out.print(sum);
-     Scanner sc = new Scanner(System.in);
+     //Scanner sc = new Scanner(System.in);
      /*String input = sc.next();
      System.out.println(input);*/
      /*String name = sc.nextLine();
