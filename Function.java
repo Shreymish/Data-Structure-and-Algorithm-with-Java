@@ -51,3 +51,4 @@ public class Function {
         sc.close(); // Close the scanner to prevent resource leaks
     }  
 }
+//video 6 completed
