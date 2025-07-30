@@ -1,4 +1,4 @@
-import java.util.*;
+/*import java.util.*;
 public class conditional {
     public static void main (String args[]){
         /*int age = 11;
@@ -56,11 +56,11 @@ public class conditional {
                 case '*' : System.out.println(a*b);
                 break;
                 default : System.out.println("wrong operator");*/
-            }
+           // }
 
-        }
+       // }
 
-        }
+       // } */
         
         
     

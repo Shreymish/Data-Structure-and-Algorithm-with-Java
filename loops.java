@@ -123,7 +123,7 @@ public class loops {
         System.out.println("number was"  +n);
     } */
    //check if a number is prime or not a prime
-        Scanner sc = new Scanner (System.in);
+       /*  Scanner sc = new Scanner (System.in);
         int  n = sc.nextInt();
         if(n==2){
             System.out.println("n is a prime number");
@@ -143,7 +143,7 @@ public class loops {
             }
         }
         }
-          
+          */
 
             
 
