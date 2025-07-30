@@ -1,11 +1,11 @@
-public class pattern { // Class name convention: Start with uppercase
+/*public class pattern { // Class name convention: Start with uppercase
 
     /**
      * The main method is the entry point for any Java application.
      * The Java Virtual Machine (JVM) starts executing the program from this method.
      * @param args An array of string arguments that can be passed from the command line.
      */
-    public static void main(String[] args) {
+    //public static void main(String[] args) {
 
        /*  int size = 5; // Define the size of the pattern (e.g., 5x5 square)
 
@@ -46,9 +46,9 @@ public class pattern { // Class name convention: Start with uppercase
                     }
                     System.out.println();*/
 
-                }
+                //}
 
-            }
+           // } 
 
 
       
