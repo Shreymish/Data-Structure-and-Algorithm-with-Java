@@ -146,3 +146,5 @@ public class Patternn {
 // Source: https://chatgpt.com/share/688f3603-4e3c-8006-bbf0-b6359582af51
 // This code is a collection of various patterns in Java.   
 //https://chatgpt.com/share/688f3603-4e3c-8006-bbf0-b6359582af51
+
+//https://gemini.google.com/app/d8e144b2e1a1528a
